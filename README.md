@@ -1,6 +1,4 @@
 
-![React Avançado](https://raw.githubusercontent.com/allanlisboa/nextjs-with-styled-components/main/public/assets/logo.svg)
-
 This is a [Next.js](https://nextjs.org/) boilerplate with typescript and styled components.
 ![ci](https://github.com/allanlisboa/nextjs-with-styled-components/workflows/ci/badge.svg)
 ## What is inside?
