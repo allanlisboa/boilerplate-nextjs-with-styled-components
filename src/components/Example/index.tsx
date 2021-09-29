@@ -7,7 +7,7 @@ interface ExampleProps {
 }
 
 const Example: React.FC<ExampleProps> = ({
-  title = 'Boilerplae NextJS',
+  title = 'Boilerplate NextJS',
   description = 'Typescript, ReactJS, NextJS e Styled Components'
 }) => {
   // const { users, loading } = useExamplePageController()
